@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "tailwindcss-invalid-variant-plugin": "^1.0.3",
+    "zxcvbn": "^4.4.2"
+  }
+}
